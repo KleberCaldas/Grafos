@@ -4,7 +4,9 @@ Created on Thu Mar 28 17:29:32 2019
 
 @author: Kleber
 """
+
 from Grafo import Grafo
+
 if __name__ == "__main__":
     g = { 
             "a" : ["d"],
