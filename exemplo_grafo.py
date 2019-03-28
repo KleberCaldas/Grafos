@@ -27,5 +27,5 @@ def encontrar_no_isolado(grafo):
 
 # Testando as funcoes
 
-#print(gerar_arestas(grafo))
+print(gerar_arestas(grafo))
 print(encontrar_no_isolado(grafo))
